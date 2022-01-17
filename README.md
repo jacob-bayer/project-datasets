@@ -1,8 +1,6 @@
-# Final Project Datasets
-
 ### Acknowledgements:
 
-#### Drug Reviews
+## Drug Reviews
 
 File: drug_reviews.csv
 
