@@ -1,4 +1,4 @@
-# Datasets for final projects in my statistics & data science masters degree program at CUNY Baruch
+# Final Project Datasets
 
 ## Acknowledgements:
 
