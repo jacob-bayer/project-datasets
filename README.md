@@ -1,8 +1,10 @@
 # Final Project Datasets
 
-## Acknowledgements:
+### Acknowledgements:
 
-drug_reviews.csv
+#### Drug Reviews
+
+File: drug_reviews.csv
 
 Originally published on the UCI Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
